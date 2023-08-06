@@ -1277,17 +1277,6 @@
       "sC" : 3,
       "tS" : 1
     },
-    "\/js\/jquery.googlemap.js" : {
-      "bF" : 4,
-      "ft" : 64,
-      "ma" : 3,
-      "mi" : 2,
-      "oA" : 1,
-      "oAP" : "\/build\/js\/jquery.googlemap.js",
-      "oF" : 1,
-      "sC" : 3,
-      "tS" : 1
-    },
     "\/js\/jquery.magnific-popup.min.js" : {
       "bF" : 4,
       "ft" : 64,
@@ -1372,17 +1361,6 @@
       "mi" : 2,
       "oA" : 1,
       "oAP" : "\/build\/js\/perfect-scrollbar.min.js",
-      "oF" : 1,
-      "sC" : 3,
-      "tS" : 1
-    },
-    "\/js\/validator.js" : {
-      "bF" : 4,
-      "ft" : 64,
-      "ma" : 3,
-      "mi" : 2,
-      "oA" : 1,
-      "oAP" : "\/build\/js\/validator.js",
       "oF" : 1,
       "sC" : 3,
       "tS" : 1
